@@ -33,9 +33,10 @@ html, body {
     font-size: 175%; 
     color: rgb(4, 0, 255); 
     padding-left: 0px;
+    padding-top:25px ;
     }
    p,ul,li,td {
-    color: black; 
+    color: rgb(8, 0, 0); 
     }
    a:link {
     color: green;
@@ -53,7 +54,7 @@ html, body {
    }
    table.blueTable {
     border: 1px solid #2199e9;
-    background-color: #0003c0;
+    background-color: #282bb9;
     width: 100%;
     text-align: left;
     border-collapse: collapse;
@@ -81,3 +82,6 @@ html, body {
     padding: 2px 8px;
     border-radius: 5px;
   }
+  footer {
+    padding-top:25px ;  
+}   

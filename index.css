@@ -20,7 +20,9 @@ html, body {
     } 
     img  {
             float: left;
-            margin: 5px;
+            margin: 0px;
+            width: 11%;
+	        margin-left: 15%;
     }  
    h1 {
     font-size: 300%; 

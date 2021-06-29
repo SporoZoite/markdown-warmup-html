@@ -54,7 +54,7 @@ html, body {
    }
    table.blueTable {
     border: 1px solid #2199e9;
-    background-color: #282bb9;
+    background-color: #8e8fe9;
     width: 100%;
     text-align: left;
     border-collapse: collapse;
@@ -78,7 +78,7 @@ html, body {
   table.blueTable tfoot .links a{
     display: inline-block;
     background: #29a1f1;
-    color: #4400ff;
+    color: #503991;
     padding: 2px 8px;
     border-radius: 5px;
   }

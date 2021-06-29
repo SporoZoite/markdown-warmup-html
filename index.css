@@ -1,0 +1,81 @@
+html, body {
+    margin-left:2%;
+	margin-top:2%;
+    }
+   body {
+    background-color: #77e753;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 17px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    }
+    blockquote {
+        text-align: center;
+    } 
+    img  {
+            float: left;
+            margin: 5px;
+    }  
+   h1 {
+    font-size: 300%; 
+    color: rgb(4, 0, 255); 
+    text-align: center;
+    }
+   h3 {
+    font-size: 175%; 
+    color: rgb(4, 0, 255); 
+    padding-left: 0px;
+    }
+   p,ul,li,td {
+    color: black; 
+    }
+   a:link {
+    color: green;
+    text-decoration: underline;
+    }
+   a:visited {
+    color: rgb(0, 193, 252);
+    }
+   a:hover {
+    color: rgb(78, 80, 204);
+    text-decoration: none;
+   }
+   a:active, a:focus {
+    color: rgb(78, 80, 204);
+   }
+   table.blueTable {
+    border: 1px solid #1C6EA4;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.blueTable td, table.blueTable th {
+    border: 3px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #D0E4F5;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #4400ff;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
